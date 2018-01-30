@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_openmap_focuse_mark.png",
+        "source": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_openmap_focuse_mark.png"
+    },
+    {
+        "merged": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduLocDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_openmap_mark.png",
+        "source": "C:\\Users\\ienin\\Desktop\\baidu\\BaiduLocDemo\\app\\src\\main\\res\\drawable-hdpi\\icon_openmap_mark.png"
+    }
+]

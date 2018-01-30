@@ -1,0 +1,4 @@
+#Tue Jan 30 11:27:35 CST 2018
+base.0=C\:\\Users\\ienin\\Desktop\\baidu\\BaiduLocDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\BaiduLBS_Android_4396d8c150f9490da98b49db58e7aafb18d29676
+renamed.0=classes.dex
+file.0=C\:\\Users\\ienin\\Desktop\\baidu\\BaiduLocDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\BaiduLBS_Android_4396d8c150f9490da98b49db58e7aafb18d29676\\classes.dex

@@ -1,0 +1,7 @@
+#Tue Jan 30 11:27:36 CST 2018
+base.0=C\:\\Users\\ienin\\Desktop\\baidu\\BaiduLocDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9705b62dd65e94b2c44898616b4ff411ebfd7d49
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\ienin\\Desktop\\baidu\\BaiduLocDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_095ffabe79a67c18e9b97363b070f1f1cb8931f5\\classes.dex
+base.1=C\:\\Users\\ienin\\Desktop\\baidu\\BaiduLocDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_095ffabe79a67c18e9b97363b070f1f1cb8931f5
+file.0=C\:\\Users\\ienin\\Desktop\\baidu\\BaiduLocDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9705b62dd65e94b2c44898616b4ff411ebfd7d49\\classes.dex
